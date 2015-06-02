@@ -19,14 +19,14 @@
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-uglify": "~0.3.2",
     "grunt-contrib-watch": "^0.6.1",
-    "grunt-karma": "^0.8.3",
+    "grunt-karma": "~0.10.1",
     "grunt-protractor-runner": "~1.2.1",
-    "grunt-ng-annotate": "^0.4.0",
-    "karma": "^0.12.16",
+    "grunt-ng-annotate": "~0.10.0",
+    "karma": "0.12.31",
     "karma-junit-reporter": "^0.2.2",
     "karma-chrome-launcher": "^0.1.4",
     "karma-jasmine": "^0.1.5",
-    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-phantomjs-launcher": "~0.1.4",
     "phantomjs": "^2.0.0"
   },
   "scripts": {
